@@ -1,0 +1,16 @@
+baseURL = "http://fisireposyll.org/"
+languageCode = "en-us"
+title = "FISI-RepoSyll"
+theme = "hugo-theme-learn-master"
+defaultContentLanguage = "es"
+[params]
+disableSearch = true
+disableLandingPageButton = true
+disableNextPrev = true
+showVisitedLinks = false
+disableLanguageSwitchingButton = true
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Repositorio de Proyecto"
+identifier = "ds"
+url = "https://github.com/TestBox44/Proyecto-Fisi-RepoSyll"
+weight = 10
